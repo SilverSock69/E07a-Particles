@@ -1,4 +1,11 @@
 # E07a-Particles
+
+In this repository we will be playing and configuring particles. In this python file, when the mouse is clicked then particles/effects should be the outcomes effect. 
+Editing line 113 allows the particle that is shown when the mouse is clicked to be a specific one. In my repository, I made it a fire particle
+I also edited the python file in lines 43-53 to show the colors yellow and green
+I made the actual fire yellow, while the bits flinging out the flame are green
+
+
 Playing with particles and emitters
 
 This is an opportunity for you to play with some particles. As you hold down the mouse button, particles are generated and appended to self.particle_list. You will have the opportunity to play with the parameters for generating the particles to explore different effects.
